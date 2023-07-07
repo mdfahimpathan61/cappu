@@ -7,3 +7,4 @@ margin: 10px;}
 h3{ background-color: aquamarine; color: black;}
 li{ background-color: yellowgreen;
 border: 10px solid pink;}
+header{ border-radius: 12;  border: 8px solid orangered; }
