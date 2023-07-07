@@ -5,4 +5,5 @@ text-align:justify;
 padding: 10;
 margin: 10px;}
 h3{ background-color: aquamarine; color: black;}
-li{ background-color: yellowgreen;}
+li{ background-color: yellowgreen;
+border: 10px solid pink;}
