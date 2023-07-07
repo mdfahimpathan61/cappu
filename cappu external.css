@@ -2,4 +2,5 @@ div{ color:bisque; background-color: tomato;
 border:12px solid aqua;
 border-radius: 12px;
 text-align:justify;
-padding: 10;}
+padding: 10;
+margin: 10px;}
